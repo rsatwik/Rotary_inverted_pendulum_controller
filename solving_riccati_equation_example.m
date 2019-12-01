@@ -1,6 +1,5 @@
-% This file serves as an example to program to solve riccati equation
-% The implementation is based on the example explained by Christopher Lum
-% from his video "Introduction to Linear Quadratic Regulator (LQR) Control"
+% This file contains an example program to solve Riccati equation
+% This implementation is based on the lecture explained by Prof.Christopher Lum in his video "Introduction to Linear Quadratic Regulator (LQR) Control"
 % link: https://youtu.be/wEevt2a4SKI
 clc
 clear all
